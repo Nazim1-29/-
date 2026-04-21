@@ -1,0 +1,9 @@
+{
+  "name": "Remix: Dalili Iraq",
+  "description": "An intelligent GPS and navigation assistant tailored for Iraq, featuring bilingual support, checkpoint reporting, and local search.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
